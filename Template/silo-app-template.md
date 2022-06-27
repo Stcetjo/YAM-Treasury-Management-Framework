@@ -52,15 +52,23 @@ Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend eni
 
 Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend enim ipsum, ac ultrices nunc vestibulum non. Suspendisse eget tempus ipsum. Mauris sed lacus bibendum, faucibus nisi ut, volutpat lorem. Vivamus in ultricies metus, quis fermentum eros. In ornare enim a sodales lobortis. Integer libero odio, vehicula volutpat mauris nec, sollicitudin maximus tellus. Nullam diam diam, iaculis sed congue nec, vestibulum at ex. Phasellus dignissim hendrerit magna egestas varius.
 
-### 5. Project Goals and Scope :rocket:
+### 5. Project Purpose and Goals :rocket:
 
-> *If the project succeeds, what goals will it achieve? How do we measure that success?*
+> *What problem does your project solve? What are the goals to determine success of your project. How do we determine if the goals have been met? *
 
 [replace the text below with Your answer]: #
 
 Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend enim ipsum, ac ultrices nunc vestibulum non. Suspendisse eget tempus ipsum. Mauris sed lacus bibendum, faucibus nisi ut, volutpat lorem. Vivamus in ultricies metus, quis fermentum eros. In ornare enim a sodales lobortis. Integer libero odio, vehicula volutpat mauris nec, sollicitudin maximus tellus. Nullam diam diam, iaculis sed congue nec, vestibulum at ex. Phasellus dignissim hendrerit magna egestas varius.
 
-### 6. YAM / Ecosystem Benefit :blush:
+### 6. Project Scope
+
+> *What are the different elements that need to be built or designed to complete this project?*
+
+[replace the text below with Your answer]: #
+
+Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend enim ipsum, ac ultrices nunc vestibulum non. Suspendisse eget tempus ipsum. Mauris sed lacus bibendum, faucibus nisi ut, volutpat lorem. Vivamus in ultricies metus, quis fermentum eros. In ornare enim a sodales lobortis. Integer libero odio, vehicula volutpat mauris nec, sollicitudin maximus tellus. Nullam diam diam, iaculis sed congue nec, vestibulum at ex. Phasellus dignissim hendrerit magna egestas varius.
+
+### 7. YAM / Ecosystem Benefit :blush:
 
 > *What value does your project add to YAM and the wider ecosystem? How do we measure that benefit?*
 
@@ -68,7 +76,7 @@ Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend eni
 
 Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend enim ipsum, ac ultrices nunc vestibulum non. Suspendisse eget tempus ipsum. Mauris sed lacus bibendum, faucibus nisi ut, volutpat lorem. Vivamus in ultricies metus, quis fermentum eros. In ornare enim a sodales lobortis. Integer libero odio, vehicula volutpat mauris nec, sollicitudin maximus tellus. Nullam diam diam, iaculis sed congue nec, vestibulum at ex. Phasellus dignissim hendrerit magna egestas varius.
 
-### 7. Other Information :question:
+### 8. Other Information :question:
 
 > *Imagine you're a YAM holder. What else do you think we should know about your application?*
 
